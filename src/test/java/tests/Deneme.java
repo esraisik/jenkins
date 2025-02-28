@@ -23,6 +23,7 @@ public class Deneme {
             tersmetin +=metin.charAt(uzunluk);
             uzunluk--;
         }
+
         System.out.println("ters metin:" + tersmetin);
     }
 }
